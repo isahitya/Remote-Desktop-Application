@@ -1,0 +1,1 @@
+java -cp client\classes\;server\classes\;gui\classes\;. pl.Main
